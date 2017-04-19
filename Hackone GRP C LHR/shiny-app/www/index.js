@@ -1,5 +1,14 @@
 $(document).ready(function() {
-
+  
+  //$(document.body).preappend('');
+  $('.col-sm-8').html('<img id="logo" src = "logo.png" />');
+  $('#logo').css({
+    "width": "55px",
+    "margin-top": "-83px",
+    "margin-left": "-450px",
+    "background": "black"
+  });
+  $('h1').css("margin-left", "70px");
   $(document.body).append('<div id="loader"><img id="loading" src="gears.gif" style="display: none; margin-left: 20px;" /></div><div id="result"></div>');
   $(document).on('click', '#submit', function(e) {
 
