@@ -1,0 +1,612 @@
+,Urban_Peri.Urban,Province,city,Region,District,Belts,gps_lat,gps_lang,gender,fem_mem_grp,home_type,no_of_rooms,owenership_status,edu_level,Amount,ES20,Repairing.House_Rent,Food,Lightning_Energy_Fuel,Transport,Clothes,Health.care,srcofenergy,winter,summer,alt_sources,low_kw_app,med_kw_app,high_kw_app
+1,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,ls_primary,250,2,0,5000,0,500,0,500,3,1,2,5,1,0,0
+2,Rural,Sindh,Thatta,Karachi,Karachi District,Lower Sindh,24.7479013,67.9047487,male,4,one-story,2,owned,post_graduate,1500,2,0,20000,1500,5000,5000,5000,4,3,2,5,5,3,0
+3,Rural,Sindh,Thatta,Karachi,Karachi District,Lower Sindh,24.7479013,67.9047487,male,2,hut,1,owned,metric,500,1,0,8000,500,1000,0,1000,3,3,2,6,4,0,0
+4,Urban,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,3,owned,ls_primary,2500,4,0,5000,1500,500,2000,1000,1,4,1,4,5,1,1
+5,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,3,owned,metric,2500,4,0,120000,1200,500,2000,0,1,3,2,2,4,2,1
+6,Rural,Sindh,Sujawal,Karachi,Karachi District,Lower Sindh,24.6048825,68.0591437,male,3,hut,2,owned,ls_metric,2000,5,0,2000,2000,500,500,1000,1,3,1,2,3,0,1
+7,Urban,Sindh,Thatta,Karachi,Karachi District,Lower Sindh,24.7479013,67.9047487,male,3,one-story,3,owned,metric,2500,4,0,5000,1500,500,2000,0,4,6,0,4,6,2,1
+8,Rural,Sindh,Thatta,Karachi,Karachi District,Lower Sindh,24.7479013,67.9047487,male,3,one-story,2,owned,intermediate,1200,5,1000,7000,1000,500,0,1500,2,2,2,4,4,2,0
+9,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,others,3,owned,intermediate,2415,3,0,1752,741,0,852700,0,2,0,2,7,4,3,1
+10,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,one-story,1,owned,post_graduate,500,2,5000,15000,500,500,2000,2000,4,2,1,4,5,2,0
+11,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,2,owned,graduate,1200,3,0,10000,1500,2000,0,2000,1,0,2,3,3,2,0
+12,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_primary,1200,1,15000,6000,0,400,10000,600,0,4,0,5,1,0,0
+13,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,2,owned,illterate,2000,2,20000,10000,0,0,3000,500,0,4,0,6,2,0,1
+14,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,3,owned,illterate,2200,1,50000,20000,0,0,1500,1000,0,1,1,5,1,0,1
+15,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,3,owned,ls_metric,3000,2,50000,7000,0,0,3500,8000,0,1,1,4,2,0,1
+16,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,4,owned,illterate,3200,1,40000,5000,0,0,3000,5000,0,1,1,5,1,0,2
+17,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,3,owned,metric,2800,2,7000,15000,0,0,8000,7000,0,2,1,4,2,0,1
+18,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,2,owned,illterate,1200,2,10000,8000,0,0,3000,8000,0,1,3,5,1,0,0
+19,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,5,owned,ls_primary,4000,1,15000,5000,0,0,3000,5000,0,1,1,7,2,0,2
+20,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,4,owned,ls_primary,3200,2,20000,10000,0,0,5000,4000,0,1,3,6,3,0,1
+21,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,3,owned,illterate,3000,1,50000,6000,0,0,7000,8000,0,0,0,5,2,0,2
+22,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,3,owned,illterate,3000,1,80000,8000,0,0,10000,6000,0,0,0,4,2,0,2
+23,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,5,owned,ls_primary,4900,1,50000,5000,0,0,3500,3000,0,2,0,5,2,0,2
+24,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,3,owned,illterate,3000,1,20000,5000,0,0,500,4000,1,0,0,3,2,0,2
+25,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_primary,1200,2,40000,3000,1000,0,3000,7000,1,0,0,4,3,0,0
+26,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,4,owned,ls_metric,3300,2,60000,6000,0,0,1200,5000,0,0,2,6,3,0,2
+27,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,1,owned,ls_metric,500,2,5000,5000,500,3000,1000,1200,2,1,1,1,4,0,0
+28,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,post_graduate,2000,4,0,5000,1000,400,2000,0,4,6,1,2,3,1,1
+29,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,one-story,3,owned,post_graduate,2500,4,0,12000,2500,500,0,1000,4,5,1,1,4,3,2
+30,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,3,owned,metric,2500,4,0,5000,1000,1000,500,1500,3,3,1,4,4,1,1
+31,Urban,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,4,alloted,metric,3500,4,0,5000,2000,500,2000,2000,4,4,1,4,5,0,2
+32,Rural,Sindh,Karachi,Karachi,Karachi District,Lower Sindh,25.0113399,66.5042019,female,4,hut,1,rented,illterate,200,3,0,8000,200,300,0,200,0,6,3,1,1,0,0
+33,Urban,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,3,rented,illterate,2500,2,45,10,10,0,50,0,1,4,1,2,2,2,1
+34,Urban,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,3,owned,intermediate,2500,5,0,30000,4000,4000,2000,1000,3,1,3,3,5,3,1
+35,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,rented,ls_metric,1000,4,0,5000,1500,1500,2000,5000,2,4,2,5,2,0,0
+36,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,metric,500,2,5000,600,100,500,1000,500,1,3,2,4,2,0,0
+37,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,2,owned,ls_primary,1000,2,5500,2000,600,600,1000,1000,1,3,2,5,2,0,0
+38,Urban,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,3,owned,metric,3000,5,0,10000,3000,300,2000,1000,2,6,2,4,4,0,2
+39,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,2,owned,illterate,1500,2,4000,300,1000,200,4000,12000,1,4,2,4,3,0,0
+40,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,hut,1,owned,ls_primary,900,1,1200,500,0,200,2000,4000,1,6,0,2,1,0,0
+41,Urban,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,3,owned,metric,3000,2,0,250,4000,350,5000,1000,1,3,1,2,1,0,2
+42,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,hut,1,owned,ls_primary,600,2,2000,1000,600,500,7000,500,1,0,0,3,2,0,0
+43,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,2,owned,metric,1200,2,600,300,0,200,2000,500,0,6,1,3,1,0,0
+44,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,1,hut,1,owned,illterate,50,2,500,300,0,300,200,0,0,0,0,3,1,0,0
+45,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_metric,1000,1,15000,5000,0,300,5000,600,1,6,1,2,1,0,0
+46,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,metric,500,3,1000,3000,0,300,1000,500,1,6,3,5,4,1,0
+47,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,intermediate,500,2,2000,10000,500,300,3000,1000,2,6,1,5,4,0,1
+48,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,metric,500,2,1500,9000,300,300,2500,800,2,6,3,4,4,1,1
+49,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,1,owned,metric,50,2,3000,12000,0,1000,4000,1500,2,4,1,4,1,0,0
+50,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,ls_primary,500,2,1000,8000,300,400,1500,500,2,6,2,3,3,0,0
+51,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_primary,200,1,800,8000,200,400,4000,2000,1,6,1,3,1,0,0
+52,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,200,1,200,5000,0,200,2000,2000,1,4,1,4,1,0,0
+53,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,1000,1,250,500,40,300,500,2000,2,3,1,4,1,0,0
+54,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,1,owned,ls_primary,500,2,250,5000,0,500,5000,5000,2,6,3,3,1,0,0
+55,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_primary,500,2,0,1000,500,200,3000,0,1,4,2,2,3,0,0
+56,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,one-story,1,owned,intermediate,700,2,0,9000,700,1500,3000,1000,2,4,1,3,5,1,1
+57,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,metric,500,2,10000,6000,500,1500,0,0,2,6,1,4,4,0,0
+58,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_primary,500,2,7000,9000,500,1500,4000,1000,2,1,4,4,3,0,0
+59,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,2,owned,metric,1500,2,0,8000,1500,1500,2000,2000,2,3,3,3,3,0,0
+60,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,metric,700,2,0,9000,1000,1500,4000,800,3,3,3,3,3,0,1
+61,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_primary,700,2,8000,4000,700,200,6000,200,2,1,5,3,3,0,0
+62,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_primary,500,1,0,10000,700,500,7000,1500,1,3,4,4,3,0,0
+63,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,200,2,0,3000,200,300,0,1000,0,4,0,3,3,0,0
+64,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,illterate,380,2,0,7000,380,280,0,1000,0,4,0,2,1,0,0
+65,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,illterate,200,2,0,5000,200,200,0,500,0,4,1,2,1,0,0
+66,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,illterate,200,2,0,3000,200,100,0,300,0,4,0,2,1,0,0
+67,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,ls_primary,200,2,0,4000,200,300,0,500,0,4,1,2,1,0,0
+68,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_primary,200,2,80,3000,200,300,0,500,0,4,1,2,1,0,0
+69,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,alloted,ls_primary,200,2,0,6000,200,300,0,1000,0,4,0,2,1,0,0
+70,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,alloted,ls_primary,200,2,0,5000,200,300,0,500,2,4,0,2,1,0,0
+71,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,illterate,200,2,0,350,200,500,0,500,0,4,0,2,1,0,0
+72,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,apartment,1,owned,illterate,200,2,0,2000,100,100,0,500,0,4,0,2,1,0,0
+73,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,graduate,200,2,0,5000,200,200,0,1000,0,3,2,3,1,0,0
+74,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,200,2,0,5000,200,100,0,500,0,4,1,2,1,0,0
+75,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,ls_primary,200,2,0,5000,200,2300,0,500,0,2,1,2,1,0,0
+76,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,ls_metric,100,2,0,6000,300,200,0,1000,0,4,1,2,1,0,0
+77,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,illterate,200,2,0,5000,200,300,0,500,0,4,0,2,1,0,0
+78,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_primary,200,2,0,3000,200,200,0,500,0,4,1,2,1,0,0
+79,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,one-story,3,owned,post_graduate,1000,3,0,15000,1000,0,5000,5000,4,2,3,4,6,2,0
+80,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,metric,500,2,0,4000,500,500,500,500,1,0,0,3,3,0,0
+81,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,illterate,500,2,0,4000,500,500,600,400,0,6,0,3,1,0,0
+82,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,ls_metric,500,2,0,4000,500,500,600,500,1,6,0,3,3,0,0
+83,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,ls_metric,500,2,0,4000,400,500,600,500,0,0,0,4,1,0,0
+84,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,illterate,500,2,0,3500,300,400,500,300,2,6,0,3,1,1,0
+85,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,illterate,500,2,0,4000,500,500,600,500,2,0,0,3,1,0,0
+86,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,metric,500,3,0,4000,500,500,600,400,0,0,0,3,1,0,0
+87,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,illterate,500,3,0,4000,500,500,600,500,2,0,0,3,1,0,0
+88,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,graduate,500,2,1000,5000,500,500,1000,500,1,0,0,3,3,1,0
+89,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,ls_metric,500,2,0,4000,500,500,600,400,3,6,0,3,1,0,0
+90,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,1,hut,1,owned,ls_metric,500,2,0,4000,500,500,600,0,2,5,0,3,1,0,0
+91,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,intermediate,500,2,0,5000,500,500,1000,500,2,0,0,3,1,0,0
+92,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,illterate,500,2,0,3500,500,500,600,500,0,6,0,3,1,0,0
+93,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,3,hut,1,owned,ls_metric,600,2,0,4000,300,500,400,200,1,4,0,2,1,0,0
+94,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,3,one-story,1,owned,graduate,200,2,10000,12000,200,2000,1000,500,2,4,0,1,3,0,0
+95,Urban,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,1,owned,ls_primary,0,2,0,10000,500,1000,600,100,1,4,0,2,1,0,0
+96,Urban,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,one-story,5,owned,intermediate,7500,3,0,12000,500,2000,400,500,1,4,0,3,3,0,0
+97,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,2,alloted,intermediate,1000,2,20000,8000,200,1500,500,300,2,4,0,3,2,1,0
+98,Rural,Sindh,Islamkot,Karachi,Karachi District,Lower Sindh,24.6980722,70.1637778,male,2,hut,1,owned,illterate,500,2,0,4000,500,500,600,500,0,2,2,3,1,0,0
+99,Rural,Sindh,Sunder,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,hut,2,owned,graduate,1500,4,0,5000,0,500,1500,0,1,0,0,2,3,0,0
+100,Rural,Sindh,Sunder,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,hut,1,owned,metric,100,3,0,6000,0,1000,1000,0,1,0,0,2,3,0,0
+101,Urban,Sindh,Sunder,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,5,owned,metric,5000,5,0,13000,0,2000,3000,0,1,0,0,2,3,0,2
+102,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,hut,2,owned,ls_metric,2000,4,0,6000,1500,1000,0,1000,1,5,0,4,4,1,1
+103,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,one-story,2,owned,metric,2000,5,0,6000,2000,1500,0,2000,1,5,1,2,4,1,1
+104,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,2,owned,graduate,1500,3,0,6000,1500,1500,0,1000,4,4,1,3,2,0,0
+105,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,hut,2,owned,ls_primary,1600,2,0,7000,1500,1500,0,2000,4,5,0,2,3,1,0
+106,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,hut,2,owned,ls_primary,2000,3,0,8000,2000,1500,1000,2000,2,5,0,3,3,1,1
+107,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,1,owned,ls_metric,500,2,0,5000,500,1000,0,1500,1,3,0,2,4,0,0
+108,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,1,owned,metric,500,3,0,5000,500,1000,0,1000,3,0,0,3,3,0,0
+109,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,hut,1,owned,ls_primary,500,2,0,8000,500,1500,0,2000,1,0,0,2,3,1,0
+110,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,1,owned,illterate,500,3,0,5000,500,500,0,1000,1,6,0,3,3,0,0
+111,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,hut,1,owned,ls_primary,500,3,0,6000,500,1500,0,2000,1,0,0,2,3,1,0
+112,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,1,owned,ls_primary,500,3,0,5000,500,1000,0,1000,1,0,0,3,4,0,0
+113,Rural,Sindh,Jahoo,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,1500,3,0,8000,1500,2500,0,2000,1,0,0,3,5,2,0
+114,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,hut,2,owned,illterate,1250,2,2000,9000,500,1000,500,1000,2,4,0,2,3,0,0
+115,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,hut,1,owned,intermediate,0,3,0,8000,0,1000,0,2000,1,0,0,2,3,0,0
+116,Urban,Sindh,Ghotki,Karachi,Karachi District,Lower Sindh,28.0034552,69.2966077,male,2,hut,3,rented,illterate,2500,4,0,1000,1500,500,0,0,4,2,2,2,4,1,1
+117,Rural,Sindh,Ghotki,Karachi,Karachi District,Lower Sindh,28.0034552,69.2966077,male,2,hut,1,owned,illterate,500,4,0,8000,500,300,0,500,1,2,4,2,5,1,0
+118,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,apartment,2,owned,metric,1500,2,0,1500,1000,0,1000,0,3,3,0,3,6,4,0
+119,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,ls_primary,500,2,0,15000,500,1000,4000,1700,3,4,0,2,5,0,0
+120,Rural,Sindh,Village haji yaqoob jamali,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,hut,1,owned,metric,500,2,0,5000,500,500,2000,1000,3,2,0,2,6,0,0
+121,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,one-story,1,owned,intermediate,800,2,3,6000,500,1000,800,1500,3,2,0,1,4,0,0
+122,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_primary,700,2,0,13000,700,500,3000,500,1,2,4,4,3,0,0
+123,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_metric,700,2,0,8000,700,1500,2000,1000,2,2,2,4,3,0,0
+124,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,one-story,1,owned,ls_primary,700,2,0,8000,700,600,2000,1000,2,2,3,3,3,0,0
+125,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,800,2,0,7000,800,500,1500,1000,1,2,3,4,3,0,0
+126,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,metric,700,2,0,5000,800,500,1000,1000,2,2,4,3,2,0,0
+127,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_primary,500,2,0,5000,400,500,1000,500,2,4,3,4,3,0,0
+128,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,500,2,0,6000,500,500,1000,1000,1,6,1,4,2,0,0
+129,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,200,2,0,500,200,300,1000,1000,1,4,1,4,2,0,0
+130,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,2,owned,ls_metric,1200,2,0,10000,200,400,2000,1000,2,4,4,4,3,0,0
+131,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_primary,600,2,0,8000,200,500,1000,2000,2,6,3,4,3,0,0
+132,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,1,hut,1,owned,illterate,60,2,0,4000,50,200,1000,500,1,5,2,3,1,0,0
+133,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,1,hut,1,owned,ls_primary,400,2,0,6000,200,1500,1000,1500,2,6,3,4,3,0,0
+134,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,one-story,1,owned,intermediate,500,2,0,12000,800,1500,10000,500,2,6,2,3,3,0,0
+135,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,metric,700,2,2000,9000,800,2000,10000,14000,2,6,3,4,3,0,0
+136,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,300,2,1000,8000,800,200,2000,1000,1,6,2,4,3,0,0
+137,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,metric,200,2,0,4000,200,400,0,300,2,2,0,3,1,0,0
+138,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,graduate,500,2,0,25000,500,2000,5000,3000,4,3,2,6,5,1,1
+139,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,intermediate,500,2,25000,1000,200,1000,2000,200,4,2,2,4,5,1,0
+140,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_primary,600,3,0,3000,500,1000,0,200,2,4,1,2,1,0,0
+141,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,metric,500,3,0,5000,500,500,0,1000,4,2,1,3,1,0,0
+142,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_primary,500,3,0,5000,500,100,1000,1000,1,2,2,3,4,0,0
+143,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,500,2,0,5000,300,1000,0,2000,1,2,2,1,1,0,0
+144,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,graduate,500,2,0,20000,500,1000,2000,5000,4,6,2,3,4,1,0
+145,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,metric,500,2,0,5000,500,1700,2000,1000,1,6,0,3,5,0,0
+146,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,ls_primary,500,2,0,5000,300,100,0,1000,0,2,1,2,1,0,0
+147,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,illterate,100,1,0,5000,200,1200,0,1500,0,2,0,2,1,0,0
+148,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,ls_primary,200,2,0,5000,200,1200,0,1000,0,2,0,2,1,0,0
+149,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,illterate,300,2,0,5000,200,1200,0,2000,0,2,0,2,1,0,0
+150,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,ls_primary,300,2,0,5000,200,1200,0,0,0,2,0,2,1,0,0
+151,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,2,owned,ls_primary,1200,2,0,3500,1200,1000,0,500,0,2,0,2,1,0,0
+152,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,3,owned,illterate,1000,2,0,3000,1200,1200,0,600,0,2,0,2,1,0,0
+153,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,ls_primary,250,1,0,5000,250,1500,0,1000,1,2,1,1,1,0,0
+154,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,2,owned,ls_primary,2000,2,0,5000,2000,1000,0,500,3,4,1,2,3,0,1
+155,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,illterate,200,2,0,3000,200,12,0,500,4,2,0,2,1,0,0
+156,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,metric,500,2,0,10000,0,1800,60,400,1,2,3,2,4,0,0
+157,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_primary,200,2,0,5000,0,500,0,200,1,2,1,2,2,0,0
+158,Urban,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,3,owned,illterate,2500,2,0,5000,200,600,0,500,1,2,1,2,3,0,1
+159,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,ls_primary,200,2,0,6000,200,500,0,500,1,0,0,2,4,0,0
+160,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,100,2,0,3000,0,300,0,500,1,2,0,2,4,0,0
+161,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,4,hut,1,owned,illterate,200,2,0,5000,200,200,0,500,1,4,1,2,1,0,0
+162,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,300,3,0,3000,200,200,0,500,0,3,1,2,1,0,0
+163,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,alloted,illterate,300,2,0,5000,200,200,0,300,0,3,0,2,1,0,0
+164,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,100,2,0,3000,100,200,0,300,0,0,0,2,1,0,0
+165,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,200,2,0,3000,100,200,0,500,0,4,1,2,1,0,0
+166,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,illterate,200,2,0,5000,200,200,0,500,0,4,1,2,1,0,0
+167,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,ls_metric,200,2,0,3000,200,500,0,500,0,4,1,2,1,0,0
+168,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_metric,200,2,0,5000,200,200,0,500,0,1,2,2,1,0,0
+169,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,ls_primary,300,2,0,7000,300,200,1000,500,0,3,1,2,1,0,0
+170,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,200,2,0,3000,200,300,0,600,0,2,1,2,1,0,0
+171,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,ls_primary,300,2,0,5000,300,200,0,500,0,2,1,2,1,0,0
+172,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,metric,300,2,0,4000,200,300,0,300,0,3,1,2,1,0,0
+173,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,300,2,0,3000,300,200,0,300,0,4,0,2,1,0,0
+174,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,300,2,0,500,300,200,0,500,0,4,0,2,1,0,0
+175,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,300,2,0,5000,300,200,200,500,0,0,0,2,1,0,0
+176,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,300,2,0,5000,300,600,0,500,0,1,2,2,1,0,0
+177,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,300,2,0,3000,300,200,0,500,0,4,2,2,1,0,0
+178,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,1,hut,1,owned,illterate,200,2,0,3500,300,300,0,500,0,1,2,2,1,0,0
+179,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,female,2,hut,1,owned,illterate,380,2,0,3000,300,200,0,500,0,3,1,2,1,0,0
+180,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,2,hut,1,owned,illterate,300,2,0,5000,300,300,0,500,0,4,0,2,1,0,0
+181,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,illterate,500,2,0,5000,500,800,0,500,0,2,2,2,1,0,0
+182,Rural,Sindh,Jatti,Karachi,Karachi District,Lower Sindh,24.3557952,68.2587003,male,3,hut,1,owned,ls_primary,250,2,0,5000,300,500,0,300,0,4,0,2,1,0,0
+183,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,2,owned,intermediate,1200,2,0,10000,1200,1000,2000,2000,2,2,2,1,4,2,0
+184,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,female,4,hut,2,owned,post_graduate,2000,2,0,5000,2000,0,2000,500,3,1,2,1,3,0,1
+185,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,female,2,one-story,1,owned,intermediate,450,2,0,6000,3000,2000,8000,2000,3,0,1,1,3,1,2
+186,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,2,owned,ls_metric,2000,4,0,3500,1500,2000,1200,1500,2,3,2,2,3,1,1
+187,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,2,owned,intermediate,1200,4,0,4000,1600,100,1500,0,2,2,2,1,3,0,0
+188,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,metric,1200,3,0,5000,1300,2000,4000,2000,4,0,0,1,3,0,0
+189,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,1,owned,metric,400,3,0,5000,3000,1000,1500,2000,2,2,2,1,4,0,0
+190,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,one-story,2,owned,post_graduate,1500,5,0,3000,1300,2000,3000,0,3,0,0,1,3,1,1
+191,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,one-story,2,owned,ls_metric,1500,2,0,5000,1500,1000,1500,1200,3,1,2,3,3,0,1
+192,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,intermediate,1100,3,0,3000,1600,1000,2000,1000,3,1,2,3,3,0,0
+193,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_metric,1500,3,0,2009,1300,1200,1500,0,3,1,3,2,3,0,0
+194,Urban,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,one-story,3,owned,graduate,2500,2,70000,9000,2500,0,0,500,3,4,1,1,3,0,1
+195,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,2,rented,illterate,1500,3,0,2000,1400,1200,2000,0,2,0,0,1,3,0,0
+196,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,1,owned,ls_primary,100,2,0,5000,150,1500,1100,0,2,0,0,1,2,0,0
+197,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_primary,1100,2,0,3500,1100,100,1500,500,2,2,1,1,3,0,0
+198,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,one-story,2,owned,intermediate,1200,3,0,10000,1400,2000,4000,2000,3,0,0,2,3,0,0
+199,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,one-story,2,owned,intermediate,1200,2,0,5000,1400,1000,2000,0,3,0,0,1,2,0,0
+200,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,one-story,2,owned,graduate,1500,2,0,5000,1500,2000,4000,0,3,0,0,1,3,0,0
+201,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,one-story,2,owned,graduate,1000,2,0,6000,200,1000,2000,0,2,0,0,1,3,0,0
+202,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,one-story,2,owned,post_graduate,1500,2,0,5000,1000,1000,3000,0,3,0,0,1,3,0,0
+203,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,one-story,1,owned,metric,500,2,0,5000,1300,0,3000,0,3,0,0,2,2,0,0
+204,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,one-story,2,owned,intermediate,1500,2,0,4000,1300,2000,2000,0,2,0,0,1,3,0,0
+205,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,one-story,1,owned,ls_primary,1000,3,0,6000,2000,1500,3000,0,1,0,0,1,3,0,0
+206,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,2,owned,illterate,1200,2,0,5500,1500,1000,2000,0,1,0,0,1,3,0,0
+207,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,2,owned,illterate,1700,2,0,6000,1300,1000,3000,0,1,0,0,1,3,0,0
+208,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,intermediate,1500,2,3000,6000,0,1500,5000,2000,3,1,2,2,3,0,0
+209,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,2,owned,intermediate,1600,2,0,20000,1400,1000,5000,5000,3,0,0,1,3,0,0
+210,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,2,owned,ls_primary,1500,2,3000,5000,1400,1000,3000,0,2,2,1,1,3,1,0
+211,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,hut,2,owned,ls_metric,1000,3,0,7000,1000,0,5000,4000,2,0,0,0,2,0,0
+212,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_primary,1500,2,0,3400,1000,0,4000,0,3,0,0,1,3,0,0
+213,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,2,owned,ls_primary,1500,2,0,5000,1300,1000,5000,0,3,0,0,2,3,1,0
+214,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,1,owned,metric,1000,2,0,4000,1200,1000,3000,0,3,1,2,1,3,0,0
+215,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_primary,1500,2,0,500,1200,0,500,0,3,1,2,1,3,0,0
+216,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,4,one-story,1,owned,ls_primary,100,2,0,4000,0,0,3000,1000,3,0,0,2,2,0,0
+217,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,1,owned,ls_primary,200,2,0,3500,200,500,3000,0,2,0,0,2,3,0,0
+218,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,hut,1,owned,ls_primary,300,1,0,5000,300,0,2000,0,1,0,1,1,3,0,0
+219,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,one-story,3,owned,graduate,2500,3,0,18000,2500,900,0,2000,2,0,0,1,3,1,1
+220,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,two-story,3,owned,intermediate,2500,4,0,20000,2500,5000,5000,2000,1,0,0,3,3,2,1
+221,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,2,owned,illterate,1500,2,0,3500,1500,0,2000,0,1,0,0,1,3,0,0
+222,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,two-story,2,rented,illterate,1500,2,5000,10000,1500,0,1000,0,1,6,2,1,3,1,0
+223,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,apartment,1,owned,illterate,800,2,0,5000,800,1000,2000,1500,1,0,0,2,3,0,0
+224,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,hut,1,owned,metric,0,2,0,6000,0,0,0,500,1,0,3,2,1,0,0
+225,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,4,one-story,1,owned,illterate,100,2,0,10000,100,0,2000,2000,2,0,2,2,2,1,0
+226,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,one-story,2,alloted,intermediate,1000,2,0,10000,1000,500,500,1500,1,2,1,1,4,3,0
+227,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,one-story,2,rented,ls_primary,1000,2,1000,1500,800,400,5000,0,1,2,0,2,3,1,0
+228,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,one-story,4,owned,ls_primary,1000,2,0,5000,2000,1000,1500,0,1,0,0,2,3,1,0
+229,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,one-story,2,owned,ls_metric,2000,2,0,5000,0,0,0,0,1,0,0,3,3,2,0
+230,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,one-story,1,owned,ls_metric,800,3,0,4000,1000,500,0,400,1,2,0,2,4,1,0
+231,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,one-story,2,owned,metric,1500,2,0,2000,0,300,0,0,1,0,0,3,2,2,0
+232,Urban,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,0,2,0,10000,0,1000,3000,2000,0,2,2,3,1,0,0
+233,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,illterate,500,3,0,10000,0,500,3500,1000,0,0,2,1,1,0,0
+234,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,apartment,1,owned,illterate,300,4,0,1500,0,1000,3000,1000,0,0,2,2,1,0,0
+235,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,intermediate,340,4,0,2000,0,500,2000,1000,1,1,1,4,2,0,0
+236,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,500,3,0,1500,0,500,1000,500,0,0,3,3,2,0,0
+237,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,illterate,300,3,0,5000,0,1000,3000,500,0,0,2,2,1,0,0
+238,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,ls_primary,2000,4,500,7400,0,500,4000,500,1,1,2,3,2,0,1
+239,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,illterate,2000,3,0,8000,0,1000,1500,620,1,1,3,3,2,0,1
+240,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,illterate,400,3,0,6000,0,1500,5000,4000,0,0,2,2,3,0,0
+241,Urban,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,3,owned,illterate,3000,3,1500,1460,0,1000,3000,2000,0,0,3,3,1,0,1
+242,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,400,3,0,590,0,200,1000,400,0,4,2,2,1,0,0
+243,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,illterate,400,3,0,10000,0,1200,3500,500,0,0,2,2,1,0,0
+244,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,300,3,0,2000,0,100,2000,500,1,0,2,2,1,0,0
+245,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,500,3,0,9000,0,1500,2200,600,1,0,2,2,1,0,0
+246,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,ls_primary,800,3,0,8000,0,2200,6000,3000,2,0,3,2,1,0,0
+247,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,ls_primary,100,3,0,4000,0,500,4000,500,0,0,3,2,2,0,0
+248,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,illterate,500,3,0,22000,0,4000,5000,1000,0,0,3,1,2,0,0
+249,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,illterate,400,3,0,4000,0,4000,2300,80,0,0,3,1,1,0,0
+250,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,ls_primary,500,3,0,2000,0,500,1000,0,0,0,3,1,1,0,0
+251,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,800,3,0,4000,0,500,3000,0,0,0,2,1,1,0,0
+252,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,illterate,1000,3,0,4000,0,1000,2000,0,0,0,3,1,1,0,0
+253,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,600,3,0,1000,0,400,3000,0,0,0,2,1,1,0,0
+254,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,500,3,0,4000,0,500,2000,0,0,0,2,1,1,0,0
+255,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,ls_metric,500,3,0,4000,0,500,1000,0,0,0,3,1,1,0,0
+256,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,500,2,0,4000,0,1500,3000,8000,0,0,3,2,1,0,0
+257,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,ls_primary,1000,3,0,10000,0,500,1000,100,0,0,3,1,1,0,0
+258,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,illterate,400,3,0,9000,0,460,3000,40,0,0,4,1,1,0,0
+259,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,600,3,0,10000,0,1200,4000,800,0,0,4,2,1,0,0
+260,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,560,3,0,8000,0,1000,2000,80,0,1,3,2,1,0,0
+261,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,2,owned,illterate,1000,3,0,10000,0,2000,5000,0,0,0,3,2,1,0,0
+262,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,700,3,5000,8000,0,6000,1000,0,0,0,3,2,1,0,0
+263,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,900,3,0,9000,0,500,5000,0,0,1,3,2,1,0,0
+264,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,illterate,1000,3,0,11000,0,1000,6000,0,0,0,5,2,1,0,0
+265,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,400,4,0,15000,0,3000,5000,800,0,4,5,2,1,0,0
+266,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,100,3,0,6000,0,4000,4000,0,0,0,3,2,1,0,0
+267,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,400,3,0,10000,0,4000,5000,400,0,0,0,2,1,0,0
+268,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,600,3,0,8000,0,500,6000,0,0,1,3,1,1,0,0
+269,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,800,3,0,5000,0,200,3000,80,0,0,4,1,2,0,0
+270,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,ls_primary,1000,3,0,5000,0,500,3000,1200,0,0,4,1,1,0,0
+271,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,ls_primary,600,3,15000,9000,0,300,400,1500,0,2,1,3,1,0,0
+272,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,metric,500,3,0,8000,0,200,3000,200,0,0,2,1,1,0,0
+273,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,illterate,300,3,0,12000,0,250,500,0,0,2,1,1,1,0,0
+274,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,ls_primary,150,2,500,6000,0,500,500,1500,1,0,3,1,1,0,0
+275,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,ls_primary,300,3,0,2000,0,400,1000,300,0,0,3,1,1,0,0
+276,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,900,3,0,6000,0,300,2000,600,0,6,0,1,1,0,0
+277,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,ls_primary,200,2,0,5000,0,600,1800,2500,1,0,3,1,1,0,0
+278,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,ls_primary,500,3,0,8000,0,600,3000,450,0,0,2,1,1,0,0
+279,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,metric,500,2,0,4000,0,600,2000,100,0,0,3,1,1,0,0
+280,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,metric,400,3,0,5000,0,400,2000,100,0,0,2,1,1,0,0
+281,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,200,3,0,1000,0,300,1000,500,0,0,3,1,1,0,0
+282,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,metric,500,3,0,3000,0,500,6000,300,0,0,3,1,1,0,0
+283,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,ls_primary,500,3,0,8000,0,500,6000,0,0,0,3,1,1,0,0
+284,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,600,2,0,9000,0,800,5000,700,0,0,4,1,1,0,0
+285,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,illterate,200,3,0,8000,0,1000,3000,200,0,2,2,1,1,0,0
+286,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,ls_primary,800,3,1200,9000,500,5000,6000,80,0,0,3,2,1,0,0
+287,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,400,2,0,9000,0,1200,6000,100,0,0,3,1,1,0,0
+288,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,500,3,0,10000,2000,3000,6000,1000,0,0,3,3,3,0,0
+289,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,metric,500,3,1000,5000,0,3000,5000,200,1,6,4,2,3,0,0
+290,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,illterate,800,2,1000,6000,0,2000,5000,400,0,0,3,1,1,0,0
+291,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,ls_primary,200,3,0,2000,10,500,2000,500,1,0,3,1,1,0,0
+292,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,metric,1100,2,10000,6000,1100,0,15000,500,0,0,3,2,2,0,0
+293,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,200,2,0,8000,0,200,3000,100,1,0,3,2,1,0,0
+294,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,ls_metric,2000,3,0,5000,0,300,6000,0,0,3,2,3,1,0,1
+295,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,1,owned,intermediate,300,2,0,8000,0,1000,3000,0,0,0,3,2,1,0,0
+296,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,ls_primary,100,2,0,12000,0,8000,6000,1000,0,0,0,2,1,0,0
+297,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,2,owned,illterate,1300,3,0,5000,0,500,6000,0,0,0,2,3,1,0,0
+298,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,2,owned,ls_primary,2000,2,1200,3000,0,600,2000,0,0,1,2,2,1,0,1
+299,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,2,owned,illterate,1100,2,0,1000,0,300,2000,200,0,0,3,3,1,0,0
+300,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,metric,350,3,0,15000,0,7000,110000,0,1,0,2,1,3,1,0
+301,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,300,2,0,13000,0,600,10000,0,1,0,3,3,3,0,0
+302,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,1,owned,illterate,600,2,500,3000,0,500,6000,0,0,1,3,2,1,0,0
+303,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,illterate,900,2,0,3000,0,6000,5000,0,0,1,2,2,1,0,0
+304,Urban,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,5,owned,ls_primary,5000,3,0,6000,0,2000,6000,0,1,1,3,3,3,0,3
+305,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,3,hut,2,owned,ls_metric,1400,2,0,9000,0,200,6000,0,1,0,4,3,2,0,0
+306,Urban,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,4,owned,metric,3500,3,2000,12000,0,9000,3000,0,1,3,1,3,4,0,2
+307,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,2,hut,2,owned,illterate,1300,3,0,3000,0,300,6000,0,0,3,1,2,1,0,0
+308,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,1,hut,1,owned,ls_primary,300,2,0,6000,0,300,3000,0,0,0,3,3,2,0,0
+309,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,illterate,200,3,0,8000,0,500,1000,0,0,1,4,1,2,0,0
+310,Rural,Sindh,Badin,Karachi,Karachi District,Lower Sindh,24.7521458,68.2782842,male,4,hut,1,owned,illterate,300,3,0,6000,0,3000,2500,0,0,0,2,2,1,0,0
+311,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,3,owned,ls_metric,2400,3,70000,12000,2000,1200,10000,1200,3,2,0,3,5,1,2
+312,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,1,owned,ls_primary,192,4,0,9000,1600,1300,13000,600,3,2,2,4,4,2,0
+313,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,2,alloted,intermediate,1500,3,0,8000,1500,800,0,2000,2,0,0,3,4,1,0
+314,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,1,owned,ls_primary,960,3,0,4800,863,300,0,0,1,0,0,2,2,1,0
+315,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,one-story,1,owned,intermediate,180,4,5000,20000,1500,1580,3000,5000,1,0,0,3,5,2,0
+316,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,hut,1,alloted,ls_primary,0,3,0,3500,0,1200,2500,0,0,0,0,3,1,0,0
+317,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,1,owned,ls_primary,600,2,0,3000,250,600,0,0,1,2,2,3,3,0,0
+318,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,alloted,ls_primary,250,3,0,2000,250,1500,0,0,1,0,0,2,2,0,0
+319,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,alloted,ls_primary,500,3,0,3500,500,700,0,850,0,0,0,3,2,0,0
+320,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,ls_metric,1536,3,0,9500,800,1200,5000,1600,1,0,0,3,3,0,0
+321,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,2,alloted,illterate,1500,3,0,8000,1236,1280,8500,700,1,1,2,3,4,0,0
+322,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,alloted,ls_primary,480,2,0,7000,400,1500,45000,0,1,0,0,3,4,1,0
+323,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,intermediate,1440,3,0,9000,1245,1200,5000,0,1,0,0,3,5,1,0
+324,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,1,owned,ls_metric,762,3,0,4500,356,1200,3000,450,1,0,0,3,3,1,0
+325,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,intermediate,960,2,0,2500,800,1500,0,0,1,1,4,3,4,1,0
+326,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,owned,graduate,180,3,0,2000,1500,800,0,0,1,0,0,3,5,2,0
+327,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,1,owned,metric,144,3,0,4500,1136,1500,0,0,1,2,2,3,4,1,0
+328,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,ls_primary,1490,3,0,8500,963,700,5000,6000,1,0,0,3,4,1,0
+329,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,2,owned,ls_primary,1920,2,0,5000,756,1200,0,2500,1,0,0,3,4,0,0
+330,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,owned,ls_primary,320,2,0,3500,9800,600,0,0,1,0,0,3,3,0,0
+331,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,2,owned,intermediate,1020,3,0,10000,865,1500,2000,0,1,0,0,3,4,0,0
+332,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,owned,metric,192,3,0,10000,1766,30000,0,4000,1,0,0,2,3,1,0
+333,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,3,owned,graduate,2040,3,0,4000,1523,2000,5000,500,1,0,0,2,3,2,1
+334,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,3,owned,illterate,2200,3,0,6000,752,900,8000,2300,1,0,0,3,4,0,1
+335,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,1,alloted,illterate,500,2,0,7000,500,1200,8000,0,1,0,0,3,3,1,0
+336,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,2,owned,illterate,2000,3,0,7000,856,500,4500,0,1,0,0,2,4,1,1
+337,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,1,alloted,illterate,250,3,0,2500,250,600,3000,0,1,0,0,3,2,0,0
+338,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,4,owned,metric,3200,2,12000,30000,532,4000,7000,0,1,5,3,3,3,1,2
+339,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,3,owned,illterate,3000,2,0,5000,250,800,0,1100,1,0,0,3,2,0,1
+340,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,hut,1,alloted,illterate,320,2,6000,15000,0,600,0,1200,1,0,0,2,4,1,0
+341,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,3,alloted,illterate,2500,3,0,5000,235,400,0,0,1,2,2,3,4,1,1
+342,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,alloted,illterate,300,2,0,3000,500,400,0,0,1,0,0,2,3,1,0
+343,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,1,alloted,illterate,250,3,0,3000,250,700,0,0,1,6,2,2,2,0,0
+344,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,3,owned,illterate,2500,2,0,4000,350,600,0,1200,1,0,0,2,3,1,1
+345,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,graduate,1320,3,0,7000,1245,1500,8000,0,1,0,0,2,5,1,0
+346,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,intermediate,720,2,0,3000,523,400,8000,0,1,1,2,2,3,1,0
+347,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,metric,480,3,0,4500,647,700,8000,700,1,0,0,2,4,1,0
+348,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,1,owned,ls_primary,540,3,0,2500,485,400,3000,700,1,0,0,2,3,1,0
+349,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,metric,660,3,0,3000,574,758,4000,0,3,1,2,2,2,2,0
+350,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,1,owned,ls_metric,500,3,0,3500,427,200,4000,0,1,0,0,2,3,1,0
+351,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,one-story,1,owned,intermediate,402,3,0,200,485,1200,2000,0,1,0,0,2,3,1,0
+352,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,ls_metric,1440,3,0,7000,785,900,9000,0,1,0,0,2,4,1,0
+353,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,metric,840,3,0,6000,780,50,8000,0,1,0,0,2,3,1,0
+354,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,5,owned,intermediate,8500,3,0,6000,850,900,5000,0,1,0,0,3,3,1,0
+355,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,2,owned,illterate,1200,3,0,5000,638,1500,0,700,1,6,2,2,4,1,0
+356,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,2,owned,illterate,2000,2,0,200,856,200,0,1200,1,2,0,2,3,0,1
+357,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,3,owned,illterate,2500,2,12000,10000,791,2000,0,3500,1,4,2,2,4,1,1
+358,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,3,owned,illterate,2400,3,0,12000,874,980,0,700,1,6,3,2,4,1,1
+359,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,3,owned,illterate,2400,3,0,10000,1528,1200,0,0,1,0,0,2,5,1,1
+360,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,metric,1200,3,0,6000,580,1000,0,1800,1,0,0,2,3,1,0
+361,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,owned,ls_metric,500,3,0,4000,500,1400,0,200,3,0,0,2,3,0,0
+362,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,metric,1300,3,0,3000,420,1200,700,0,1,0,0,2,3,1,0
+363,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,intermediate,1800,2,0,6000,856,2000,0,1300,1,0,0,2,4,1,0
+364,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,3,owned,ls_metric,2300,3,0,8000,1473,700,0,1300,1,2,2,2,3,1,0
+365,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,5,owned,illterate,9400,2,150000,70000,598,900,0,0,1,0,0,2,4,0,3
+366,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,ls_primary,1200,3,0,4000,694,500,0,0,1,3,2,3,3,1,0
+367,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,1,owned,illterate,1000,2,0,4000,235,600,0,4000,1,6,2,3,3,0,0
+368,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,1,owned,illterate,400,2,0,5000,400,700,0,500,1,0,0,2,3,0,0
+369,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,2,owned,intermediate,1080,2,0,5000,890,500,10000,0,1,0,0,2,3,1,0
+370,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,1,owned,ls_metric,300,2,0,3000,300,200,2500,0,1,2,1,2,2,0,0
+371,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,2,owned,intermediate,1500,2,0,4000,1159,0,13000,0,1,0,0,2,4,1,0
+372,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,5,owned,intermediate,6000,4,0,5000,4580,3000,9000,0,1,0,0,2,5,2,2
+373,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,1,owned,ls_primary,750,3,0,5000,600,1000,12000,0,1,0,0,2,4,1,0
+374,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,one-story,2,owned,metric,1300,3,0,5000,752,900,8500,0,1,0,0,2,4,1,0
+375,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,3,owned,metric,2200,3,0,5000,1560,450,6000,950,1,0,0,2,4,1,0
+376,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,3,owned,metric,2500,2,0,5000,1250,450,9500,7000,1,0,0,3,4,1,1
+377,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,3,owned,metric,2700,3,0,4000,7090,700,12000,0,1,6,2,2,5,1,0
+378,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,4,owned,intermediate,3500,3,0,5000,890,300,7000,4500,1,0,0,2,4,1,2
+379,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,3,owned,ls_primary,2500,2,0,6000,2500,1200,6000,0,1,0,2,2,4,1,1
+380,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,illterate,1600,3,0,6000,870,500,7000,0,1,0,0,2,3,1,0
+381,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,intermediate,1500,2,0,4000,580,1000,90000,0,1,6,2,2,4,1,0
+382,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,metric,1800,3,20000,3000,500,1000,6000,1200,1,2,2,2,4,1,0
+383,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,one-story,2,rented,illterate,1000,3,4500,8000,1000,0,0,50000,1,0,3,1,4,3,0
+384,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,illterate,1300,3,0,6000,680,0,9000,950,2,0,0,2,3,1,1
+385,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,intermediate,2000,3,0,3000,700,2500,4000,0,2,0,0,2,4,1,0
+386,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,intermediate,1200,2,0,6000,680,1000,9000,50000,1,0,0,2,3,1,0
+387,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,metric,2000,3,0,4000,4000,900,10000,0,1,6,3,2,4,2,1
+388,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,metric,1000,2,0,4000,800,500,1200,9000,1,0,0,2,3,1,0
+389,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,one-story,5,owned,metric,8000,2,0,3000,300,1200,4000,1000,1,0,0,1,2,0,3
+390,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,illterate,1200,3,0,5000,600,800,9000,0,1,2,2,2,3,1,0
+391,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,metric,500,2,0,5000,500,200,12000,0,1,0,0,2,2,1,0
+392,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,metric,2000,3,0,5000,475,300,8000,0,1,0,0,2,4,1,1
+393,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,3,owned,metric,2500,3,0,5000,1000,0,10000,0,1,6,2,2,4,1,2
+394,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,3,owned,intermediate,2500,3,0,4000,968,800,15000,0,1,0,0,2,4,1,1
+395,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,2,owned,illterate,1200,2,0,5000,800,1500,9000,0,1,0,0,2,3,1,0
+396,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,2,owned,graduate,1500,3,0,7000,3000,1200,10000,0,1,5,2,3,4,1,0
+397,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,intermediate,1200,3,0,5000,470,2000,9000,0,1,0,0,2,4,1,0
+398,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,2,owned,metric,1200,3,0,6000,2000,0,8000,0,1,0,0,2,4,1,0
+399,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,2,owned,graduate,1500,3,0,12000,930,1200,3000,2000,1,0,0,2,3,1,0
+400,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,5,owned,metric,6000,2,0,6000,500,80,6000,0,1,0,0,2,4,1,3
+401,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,2,owned,ls_primary,1500,3,0,3000,667,600,2000,0,1,0,0,2,4,1,0
+402,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,2,owned,ls_primary,1200,2,0,3000,500,800,2000,0,2,1,4,2,5,0,0
+403,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,female,2,one-story,2,owned,illterate,1100,2,0,300,0,750,2000,0,1,3,3,2,4,1,0
+404,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,1,owned,metric,15,3,0,20000,0,1000,5000,0,1,2,3,2,4,2,0
+405,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,1,owned,ls_metric,400,2,0,5000,0,800,2000,0,1,3,3,2,4,0,0
+406,Urban,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,5,owned,intermediate,6000,2,0,10000,960,500,3000,0,1,1,4,2,4,1,2
+407,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,1,owned,ls_primary,300,2,0,5000,0,500,1500,0,3,0,0,2,4,1,0
+408,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,hut,1,owned,ls_metric,500,2,0,8000,0,900,4000,0,3,0,0,2,4,1,0
+409,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,hut,1,owned,ls_primary,800,1,0,5000,0,900,3000,0,2,2,3,2,4,1,0
+410,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,1,owned,ls_primary,700,2,0,6000,0,1000,3000,0,3,0,0,2,4,1,0
+411,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,1,owned,ls_primary,900,2,0,8000,800,900,2000,0,3,0,0,2,4,1,0
+412,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,4,one-story,1,owned,ls_metric,800,2,0,10000,0,1500,4000,0,3,0,0,3,4,1,0
+413,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,1,one-story,1,owned,ls_metric,300,2,0,2500,0,500,1000,0,3,0,0,2,4,1,0
+414,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,hut,2,owned,ls_primary,1000,2,0,4000,0,800,2500,0,3,0,0,2,4,1,0
+415,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,ls_metric,1200,2,0,4500,0,800,2500,0,3,0,0,3,4,2,0
+416,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,2,one-story,2,owned,metric,1300,3,0,5000,0,900,2500,0,2,0,0,2,5,1,0
+417,Rural,Sindh,Sanghar,Karachi,Karachi District,Lower Sindh,26.0433432,68.9121584,male,3,one-story,2,owned,ls_metric,1200,2,0,5000,0,800,3000,0,2,0,0,2,3,1,0
+418,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,apartment,1,owned,metric,350,1,0,6500,350,0,0,600,1,0,0,2,2,0,0
+419,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,4,one-story,3,rented,illterate,1000,2,4000,7000,1000,0,0,500,1,0,0,1,2,1,0
+420,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,one-story,1,rented,illterate,850,2,1500,2500,850,0,0,500,1,0,0,1,3,0,0
+421,Urban,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,female,2,one-story,3,owned,intermediate,2500,2,0,5000,2500,600,0,0,1,0,0,2,4,1,1
+422,Rural,Sindh,Gharo,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,two-story,1,owned,intermediate,400,3,0,8000,2800,500,2000,0,1,0,0,3,5,2,0
+423,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,one-story,2,owned,ls_metric,1000,2,0,8000,1000,500,1000,200,3,2,2,3,3,1,0
+424,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,one-story,2,owned,ls_metric,1000,2,0,9000,1000,500,1000,200,1,6,2,2,3,1,0
+425,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,one-story,2,owned,metric,1000,2,0,7000,1000,1500,500,200,1,5,1,2,3,0,0
+426,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,one-story,1,owned,illterate,500,2,0,6000,500,500,1000,50,1,6,1,2,3,0,0
+427,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,one-story,2,owned,ls_metric,1000,2,0,8000,1000,400,1000,2000,1,6,2,2,3,0,0
+428,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,1,one-story,1,owned,ls_metric,1000,2,0,6000,1000,100,800,200,1,0,0,1,3,0,0
+429,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,one-story,1,owned,intermediate,500,2,0,7000,700,1500,500,250,1,4,1,2,3,0,0
+430,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,one-story,1,owned,ls_primary,1000,2,0,8000,12000,1500,800,200,1,3,2,3,3,0,0
+431,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,1,hut,1,owned,illterate,100,1,0,1000,100,0,400,500,1,0,0,2,2,0,0
+432,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,one-story,1,owned,intermediate,500,1,0,5000,500,100,600,50,1,6,3,2,3,0,0
+433,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,one-story,2,owned,ls_primary,1500,2,0,7000,1500,500,800,1000,2,3,3,2,4,1,0
+434,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,hut,1,owned,ls_primary,500,1,0,6000,650,500,2000,100,1,4,2,2,3,0,0
+435,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,one-story,2,owned,illterate,1000,2,0,7000,1200,200,500,50,1,4,2,2,3,1,0
+436,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,illterate,100,2,0,6000,200,200,400,3000,1,6,1,1,3,0,0
+437,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,hut,1,owned,illterate,500,2,0,8000,700,500,400,2000,1,5,2,1,3,0,0
+438,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,ls_metric,300,2,0,6000,700,500,500,100,2,2,6,1,3,0,0
+439,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,illterate,700,2,0,7000,1200,500,500,600,1,5,1,2,3,0,0
+440,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,one-story,2,owned,ls_primary,2000,1,0,12000,1200,1000,500,400,1,0,0,1,3,1,0
+441,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,one-story,1,owned,metric,700,2,0,7000,900,3500,1000,100,3,3,2,5,3,0,0
+442,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,1,one-story,1,owned,ls_metric,500,2,0,7000,700,1500,1000,100,2,6,1,3,3,0,0
+443,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,3,one-story,1,owned,illterate,700,2,0,5000,700,500,1000,100,1,6,3,2,3,1,0
+444,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,one-story,1,owned,metric,700,2,0,1500,150,400,500,0,3,6,4,3,3,1,0
+445,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,one-story,1,owned,ls_metric,500,2,0,5000,600,100,500,1500,3,6,2,3,3,0,0
+446,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,ls_primary,200,2,0,5000,30,500,1000,1500,1,5,2,3,2,0,0
+447,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_primary,400,2,0,5000,500,600,800,1000,2,2,4,3,5,0,0
+448,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_primary,400,2,0,5000,400,400,1200,0,1,6,2,3,5,0,0
+449,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,1,owned,illterate,900,2,0,10000,1200,600,1000,1500,3,6,4,4,2,0,0
+450,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,150,2,0,9000,150,3000,800,600,2,6,1,2,2,0,0
+451,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,200,2,30000,10000,200,1500,500,1000,1,4,2,2,1,0,0
+452,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,250,2,0,5000,300,500,500,400,3,6,3,2,1,0,0
+453,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,100,2,0,8000,150,1600,350,1200,0,2,3,2,1,0,0
+454,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,400,2,0,16000,500,1500,1000,400,1,6,2,2,4,0,0
+455,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,metric,700,2,0,12000,800,3000,2000,1000,2,3,4,3,4,1,0
+456,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,illterate,100,2,0,6000,200,250,500,1000,0,4,2,2,1,0,0
+457,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,1,owned,ls_primary,500,2,2000,4000,900,2000,500,800,3,6,2,5,4,1,1
+458,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,2,hut,1,owned,illterate,500,2,0,4000,1000,500,5000,1000,2,0,0,4,4,0,0
+459,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,1,owned,illterate,300,2,0,600,1200,1500,2000,1200,1,6,2,4,4,1,0
+460,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,4,hut,1,owned,metric,600,2,0,6000,700,1500,1000,1000,1,6,2,3,4,1,1
+461,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,500,2,500,7000,700,1500,4000,1500,1,6,1,3,4,1,0
+462,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,ls_metric,700,2,0,5000,700,300,1000,500,1,6,1,3,4,1,0
+463,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,one-story,1,owned,illterate,300,2,0,12000,500,1000,1700,2000,0,2,4,3,3,0,0
+464,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,3,hut,1,owned,ls_primary,300,2,0,6000,400,500,1000,1500,1,4,2,3,3,0,0
+465,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,intermediate,700,2,600,6000,700,2000,1500,1000,3,5,2,3,3,1,0
+466,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,hut,1,owned,ls_primary,300,2,1000,6000,300,500,500,200,2,1,0,1,3,0,0
+467,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,one-story,1,rented,graduate,500,2,4500,5000,500,500,800,200,1,4,0,2,3,2,1
+468,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,1,owned,graduate,500,2,1000,8000,500,1000,1000,500,2,4,0,2,3,1,0
+469,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,1,owned,intermediate,600,2,1000,8000,500,500,600,500,2,4,0,2,3,0,0
+470,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,3,one-story,1,owned,graduate,500,2,0,18000,500,5000,4000,2000,2,5,2,2,4,1,0
+471,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,1,hut,1,owned,metric,500,2,500,9000,500,1000,1000,1000,1,3,0,3,2,0,0
+472,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,2,owned,metric,1000,2,2000,8000,1500,500,500,500,1,4,0,2,2,1,0
+473,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,2,owned,ls_metric,2000,2,500,8000,2000,0,500,500,1,4,1,1,3,1,1
+474,Urban,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,one-story,3,owned,ls_primary,3000,2,5000,8000,1700,2000,1000,500,1,3,0,3,5,0,2
+475,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,1,one-story,2,owned,metric,1800,2,0,5000,800,1200,500,400,1,0,0,2,3,1,0
+476,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,one-story,1,owned,intermediate,300,3,3000,15000,2000,2000,1000,1000,0,4,0,5,3,0,0
+477,Urban,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,hut,4,owned,ls_primary,3200,3,2700,5000,400,0,500,200,1,0,0,2,3,1,3
+478,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,one-story,1,owned,ls_metric,700,3,0,30000,2500,5000,1500,2000,1,4,0,2,3,1,1
+479,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,one-story,1,owned,ls_primary,600,2,2000,5000,300,0,500,500,1,4,0,3,1,0,0
+480,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,one-story,2,owned,ls_metric,1850,2,0,6000,2000,1500,1000,500,1,2,2,3,3,1,0
+481,Urban,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,hut,5,owned,ls_metric,7000,3,10000,12000,0,500,500,200,1,0,5,3,2,0,2
+482,Urban,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,2,one-story,5,owned,metric,4000,4,8000,14000,7000,500,1000,400,1,4,0,3,3,2,2
+483,Rural,Sindh,Nagarparkar,Karachi,Karachi District,Lower Sindh,24.3608775,70.7488633,male,4,one-story,2,owned,intermediate,1500,4,5000,25000,7000,1000,1000,2000,1,1,2,3,3,1,0
+484,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,2,owned,illterate,1300,2,0,5000,1400,2000,5000,0,2,3,1,1,3,0,0
+485,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,2,owned,ls_primary,1200,2,0,5000,1200,1500,3000,0,2,2,1,2,3,0,0
+486,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,3,hut,2,owned,illterate,1200,2,0,4000,1400,800,4000,0,3,0,0,2,3,0,0
+487,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,1,owned,ls_primary,600,2,0,4000,1200,500,2000,0,2,0,0,2,3,0,0
+488,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,1,owned,ls_metric,700,2,0,3400,500,1000,3000,0,2,0,0,2,3,0,0
+489,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,hut,2,owned,ls_primary,1200,2,0,4000,1000,0,3000,0,3,1,2,2,3,0,0
+490,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,2,one-story,2,owned,ls_primary,1400,2,0,4500,600,1000,3000,0,4,2,1,2,3,0,0
+491,Rural,Sindh,Mir pur Sakro,Karachi,Karachi District,Lower Sindh,24.5478742,67.6188755,male,1,hut,1,owned,ls_primary,1000,2,0,3000,500,2000,4000,0,2,1,2,2,3,0,0
+492,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,one-story,2,owned,post_graduate,1500,5,0,10000,1500,3000,0,0,2,0,0,1,3,3,0
+493,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,3,one-story,3,owned,intermediate,2500,6,0,20000,2500,0,5000,0,2,0,0,3,3,2,1
+494,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,one-story,2,owned,intermediate,1000,3,0,6000,1500,600,2000,0,2,0,0,3,3,1,0
+495,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,4,two-story,3,owned,illterate,2500,5,0,30000,2500,10000,10000,0,2,0,0,2,3,1,2
+496,Urban,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,2,two-story,3,owned,ls_metric,2500,4,0,30000,2500,3000,50000,0,3,0,0,2,3,2,1
+497,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,apartment,2,owned,metric,1000,3,0,5000,1000,600,2000,0,2,0,0,2,3,2,0
+498,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,apartment,1,owned,graduate,800,2,0,3000,800,0,2000,0,2,0,0,1,3,2,0
+499,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,1,owned,metric,500,2,0,2500,500,0,1500,0,3,0,0,3,3,2,0
+500,Rural,Sindh,Dhabeji,Karachi,Karachi District,Lower Sindh,24.7936828,67.4840133,male,1,hut,1,owned,ls_primary,300,1,0,1500,300,0,0,0,2,0,0,1,2,0,0
+501,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,ls_metric,1500,3,0,7000,1500,500,0,0,1,0,0,1,3,1,0
+502,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,intermediate,2000,4,0,7000,2000,2000,3000,3000,1,0,0,1,3,1,2
+503,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,3,owned,intermediate,3000,3,0,8000,3000,2000,7000,0,1,0,0,1,3,1,2
+504,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,3,owned,intermediate,2500,3,0,10000,25000,3000,4000,3000,1,0,0,1,3,1,2
+505,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,ls_metric,3000,3,0,15000,5000,3000,4000,3000,1,0,0,1,3,1,2
+506,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,3,owned,ls_primary,3000,3,0,5000,3000,1000,0,0,1,0,0,1,3,1,2
+507,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,4,one-story,3,owned,ls_metric,3000,3,0,8000,3000,1000,0,0,1,0,0,1,3,1,2
+508,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,ls_metric,3000,3,0,10000,3000,2000,0,0,1,0,0,2,3,1,3
+509,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,2000,3,0,5000,2000,0,0,0,1,0,0,1,3,1,1
+510,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,apartment,2,owned,ls_metric,1500,3,0,6000,0,0,0,0,1,0,0,2,3,1,0
+511,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,1200,2,0,5000,1000,0,0,0,1,0,0,2,3,1,0
+512,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,1200,2,0,5000,1200,0,0,0,1,0,0,2,3,1,0
+513,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,metric,1400,3,0,5000,1400,0,0,0,1,0,0,2,3,1,0
+514,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,1500,3,0,5500,2000,1000,0,0,1,0,0,2,3,1,0
+515,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,1,one-story,5,owned,metric,4000,2,0,4000,0,0,0,0,1,0,2,2,3,0,0
+516,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,2,one-story,3,owned,intermediate,2500,3,0,15000,3500,3000,1200,0,1,0,0,2,3,2,0
+517,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,2,one-story,2,owned,metric,2000,3,0,7000,0,1000,0,1000,1,0,0,2,3,1,1
+518,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,1,one-story,3,owned,metric,3000,3,0,5800,1000,1000,0,0,1,0,0,3,3,1,2
+519,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,2,one-story,3,owned,intermediate,3000,3,0,10000,3000,1000,0,1000,1,0,0,2,3,1,2
+520,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,2,one-story,2,owned,ls_metric,2000,3,0,4000,0,0,0,0,1,0,0,2,3,1,1
+521,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,4,one-story,2,owned,intermediate,2000,2,0,10000,1000,0,0,0,1,0,0,2,4,1,1
+522,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,4,one-story,3,owned,intermediate,2500,3,0,10000,2000,1000,3000,0,1,0,0,2,3,1,1
+523,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,4,one-story,3,owned,intermediate,2100,3,0,13000,2100,2000,3000,500,1,0,0,2,3,1,1
+524,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,4,one-story,3,owned,intermediate,3000,3,0,15000,3000,2000,1000,0,1,0,0,2,4,1,2
+525,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,2,one-story,2,owned,intermediate,1800,3,0,10000,2000,1000,0,0,1,0,0,3,3,1,0
+526,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,2,one-story,2,owned,metric,1600,3,0,15000,3000,2000,2000,0,1,0,0,2,3,1,0
+527,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,3,one-story,2,owned,intermediate,1900,3,0,14000,2000,2000,3000,1000,1,0,0,2,2,1,0
+528,Urban,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,4,one-story,3,owned,ls_metric,2100,3,0,13000,3000,700,3000,900,1,0,0,2,2,1,0
+529,Rural,Sindh,Village  sikandar,Karachi,Karachi District,Lower Sindh,28.1639662,68.3729195,male,3,one-story,2,owned,intermediate,1200,2,0,7000,1200,0,0,0,1,0,0,2,3,1,0
+530,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,illterate,1200,2,0,5000,0,0,0,0,1,0,0,2,2,1,0
+531,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,metric,1800,2,0,6000,1000,0,0,0,1,0,0,2,2,0,0
+532,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,illterate,1300,2,0,4000,0,0,0,0,1,0,0,2,3,0,0
+533,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_metric,1100,3,0,4000,0,0,0,0,1,0,0,2,2,1,0
+534,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_primary,1600,2,0,6000,0,0,0,0,1,0,0,2,2,1,0
+535,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,4,one-story,2,owned,ls_primary,1600,3,0,6000,0,0,0,0,1,0,0,2,2,1,0
+536,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,illterate,1300,2,0,6000,0,0,0,0,1,0,0,2,2,1,0
+537,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,intermediate,1600,3,0,6000,1500,0,0,0,1,0,0,2,2,1,0
+538,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,illterate,1100,3,0,4000,0,0,0,0,1,0,0,2,2,1,0
+539,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,illterate,1100,2,0,4000,0,0,0,0,1,0,0,2,2,1,0
+540,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,1300,3,0,6000,0,1000,0,0,1,0,0,2,2,1,0
+541,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,intermediate,1900,3,0,7000,1900,2000,4000,3000,1,0,0,2,2,1,0
+542,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,1100,2,0,6000,0,1000,0,0,1,0,0,2,2,1,0
+543,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,ls_primary,1600,3,0,5000,1600,1000,0,0,1,0,0,2,2,1,0
+544,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,1500,3,0,6000,0,0,0,0,1,0,0,2,2,1,0
+545,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,1300,3,0,7000,2000,0,0,0,1,0,0,2,2,1,0
+546,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,ls_primary,1600,3,0,7000,1500,1000,0,0,1,0,0,2,2,1,0
+547,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,illterate,1700,3,0,7000,1700,0,0,0,1,0,0,2,2,1,0
+548,Rural,Sindh,Village Muhammad ALAM,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,illterate,1800,3,0,6000,1000,1000,0,0,1,0,0,2,2,1,0
+549,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,two-story,2,owned,intermediate,2000,3,0,7000,1000,0,3000,0,1,0,0,2,2,1,1
+550,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,two-story,2,owned,ls_metric,1600,3,0,6000,0,0,0,0,1,0,0,2,2,1,0
+551,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,1500,3,0,5000,2000,1000,0,0,1,0,0,2,2,1,0
+552,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,ls_metric,2000,3,0,6000,0,0,0,0,1,0,0,2,2,1,1
+553,Urban,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,3,owned,ls_primary,2100,3,0,6000,1000,0,0,0,1,0,0,2,2,1,0
+554,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,illterate,1800,3,0,6000,1800,0,0,0,1,0,0,2,2,1,0
+555,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_metric,1700,3,0,7000,1800,2000,0,0,1,0,0,2,2,1,0
+556,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,1900,3,0,7000,3000,0,0,0,1,0,0,2,2,1,0
+557,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_primary,2000,3,0,7000,2000,0,0,0,1,0,0,2,2,1,1
+558,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,hut,2,owned,ls_metric,2000,3,0,5000,0,2000,0,0,1,0,0,2,2,1,1
+559,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,illterate,2000,3,0,5000,0,0,0,0,1,0,0,3,2,1,1
+560,Rural,Sindh,Village saber Daheri,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,2000,2,0,6000,0,1000,0,0,1,0,0,2,2,1,1
+561,Rural,Sindh,Village saber Daheri,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,2000,3,0,6000,0,0,0,0,1,0,0,2,2,1,1
+562,Rural,Sindh,Village saber Daheri,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,illterate,1500,3,0,5000,1500,1000,0,0,1,0,0,2,2,1,0
+563,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,3,owned,intermediate,3000,3,0,9000,3000,1000,0,0,1,0,0,2,2,1,2
+564,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,2000,3,0,7900,3000,1000,0,0,1,0,0,2,2,1,1
+565,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,intermediate,3000,3,0,9000,2000,0,0,0,1,0,0,2,1,2,2
+566,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,3,owned,post_graduate,3000,3,0,9800,3000,1000,0,0,1,0,0,2,2,2,2
+567,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,graduate,2500,3,0,9000,1000,2000,3000,1000,1,0,0,2,2,2,1
+568,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,graduate,3000,3,0,10000,2000,3000,1000,0,1,0,0,2,2,2,2
+569,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,graduate,2500,3,0,7900,3000,2000,1000,0,1,0,0,2,2,2,1
+570,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,intermediate,3000,3,0,10000,2000,3000,1000,0,1,0,0,2,2,2,1
+571,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,1500,3,0,9000,2000,1500,3800,0,1,0,0,2,3,1,0
+572,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,intermediate,2000,3,0,10000,2000,1000,3000,0,1,0,0,2,4,1,1
+573,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,intermediate,2000,3,0,79000,1000,2000,1000,0,1,0,0,2,3,1,1
+574,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,3,owned,graduate,2500,3,0,9000,2800,3000,0,0,1,0,0,2,2,1,1
+575,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,intermediate,2000,3,0,6780,2000,1000,0,0,1,0,0,2,2,1,1
+576,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,2000,3,0,7000,1000,1000,0,0,1,0,0,2,2,1,1
+577,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,1,owned,intermediate,300,3,0,6000,3000,2000,0,0,1,0,0,2,3,1,0
+578,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_metric,2000,3,0,5500,2000,1800,0,0,1,0,0,2,2,1,1
+579,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_primary,1800,3,0,6000,0,1000,0,0,1,0,0,3,3,1,0
+580,Urban,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,3,owned,intermediate,2500,3,0,7000,2000,1000,3000,0,1,0,0,3,3,1,1
+581,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,3,owned,graduate,3000,3,0,7000,2000,1000,1000,0,1,0,0,2,3,1,2
+582,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,intermediate,2000,3,0,7900,2000,2000,2000,3000,1,0,0,2,3,1,1
+583,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,ls_metric,2000,3,0,8000,1000,1000,0,0,1,0,0,3,3,1,1
+584,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,1000,4,1000,2000,700,200,0,0,1,0,0,2,2,1,0
+585,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,metric,2000,3,0,5000,1000,1000,0,0,1,0,0,3,3,1,1
+586,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,hut,2,owned,ls_metric,2000,3,0,5000,0,0,0,0,1,0,0,2,3,1,1
+587,Rural,Sindh,Bakar khan Nizamani,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,4,one-story,1,owned,ls_primary,500,1,0,10000,40000,2000,0,3000,3,0,0,1,4,2,0
+588,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,3,owned,ls_metric,3000,2,0,7000,0,1000,0,0,2,3,2,2,3,1,2
+589,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,4,one-story,2,owned,illterate,2000,3,0,6000,0,0,0,0,1,3,0,1,3,1,1
+590,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,ls_primary,1500,3,0,5000,0,0,0,0,1,0,0,1,3,1,0
+591,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_metric,2000,2,0,5000,1000,2000,0,0,1,0,0,1,2,1,1
+592,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,4,one-story,2,owned,ls_metric,1500,2,0,6000,0,500,0,0,1,0,0,1,2,1,0
+593,Urban,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,3,owned,ls_metric,3000,2,30,6000,3000,500,0,0,1,0,0,1,2,1,2
+594,Rural,Sindh,Village  bakshoo Goth,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,2000,3,0,6000,2000,500,0,0,1,0,0,1,3,1,1
+595,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,owned,metric,2000,3,0,5000,0,0,0,0,1,0,0,2,3,1,1
+596,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,one-story,2,alloted,ls_metric,2000,3,0,7000,1200,1000,0,0,1,0,0,2,2,1,1
+597,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_metric,1500,3,0,9000,0,0,0,0,1,0,0,2,3,1,0
+598,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_primary,2000,3,0,6000,0,100,1000,0,1,0,0,2,3,1,1
+599,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,two-story,2,owned,ls_primary,1900,3,0,6000,0,0,0,0,1,0,0,2,3,1,0
+600,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,illterate,1200,3,0,6000,0,0,0,0,1,0,0,2,3,1,0
+601,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,1500,3,0,7000,1000,2000,1000,0,1,0,0,2,3,1,0
+602,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_metric,2000,3,0,3999,1500,1000,0,1000,1,0,0,3,3,1,0
+603,Rural,Sindh,Village Haji Mithan,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,ls_metric,1600,3,0,4999,1000,1000,0,0,1,0,0,2,3,1,0
+604,Rural,Sindh,Mulla Makhan Stop,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,ls_primary,2000,3,0,6000,1000,1000,0,0,1,0,0,2,3,2,0
+605,Rural,Sindh,Mulla Makhan Stop,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,3,two-story,2,owned,ls_metric,1900,3,0,5000,1000,1000,0,0,1,0,0,2,3,2,0
+606,Rural,Sindh,Mulla Makhan Stop,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,graduate,1700,3,0,7000,1000,1000,0,1000,1,0,0,3,5,1,0
+607,Rural,Sindh,Mulla Makhan Stop,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,intermediate,1800,3,0,8000,1000,1000,3000,1000,1,0,0,2,3,1,0
+608,Rural,Sindh,Mulla Makhan Stop,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,2,one-story,2,owned,metric,1800,3,0,6000,1000,1000,0,0,1,0,0,2,2,2,0
+609,Rural,Sindh,Village Jurio Dero,Karachi,Karachi District,Lower Sindh,26.0891731,66.6449834,male,1,one-story,2,owned,metric,1900,3,0,10000,1000,1000,1000,1000,1,0,0,2,3,2,0
+610,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,male,2,hut,1,owned,illterate,400,2,8000,4000,400,1000,1000,500,2,6,3,4,1,0,0
+611,Rural,Sindh,Pangrio,Karachi,Karachi District,Lower Sindh,24.7604419,69.1883432,female,4,one-story,1,owned,illterate,500,1,0,1000,500,600,4000,1000,2,6,2,4,1,0,0
