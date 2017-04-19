@@ -1,3 +1,27 @@
+#install.packages("DAAG")
+#install.packages("ggplot2", lib="/data/Rpackages/")
+#install.packages("rpart")
+#install.packages("rpart.plot")
+#install.packages("rattle")
+#install.packages("party")
+library(rpart)
+library(ggplot2, lib.loc="/data/Rpackages/")
+library(dplyr)
+library(tidyverse)
+library(randomForest)
+library(caret)
+library(gridExtra)
+library(e1071)
+library(tm)
+library(ggplot2)
+library(party)
+library(rpart.plot)
+library(rattle)
+
+
+
+
+
 getwd()
 #setwd('C:/Users/junaid.raza/Desktop/hackhone/',header=TRUE)
 getwd()
@@ -361,18 +385,27 @@ postResample(val, testData$Amount)
 #-------------Usman File--------------
 
 
+dfu <- read.csv("hackdftested.csv")
+class(dfu)
 
 
 
+train <- sample(1:nrow(dfu), 0.7*nrow(dfu)) # row indices for training data
+
+trainingdata <- dfu[train,] #model training data
+testData <- dfu[train,] # test data
 
 
-
-
-
-
-
-
-
+model_dt <- rpart(Amount ~ high_kw_app + Urban_Peri.Urban 
+                  + no_of_rooms, data=trainingdata, method="class", minbucket=25)
+# View decision tree plot
+fancyRpartPlot(model_dt)
+# Predict Output of test data
+predicted_dt <- predict(model_dt, testData, type="class")
+# Confusion matrix of decision tree
+table(testData$Amount, predicted_dt)
+# Accuracy of decision tree
+mean(predicted_dt==testData$Amount)
 
 
 #-------------Usman file ends---------
